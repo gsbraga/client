@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Maria da Silva', '01254567890', 2.5, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Maria Costa', '01236567890', 2.6, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Maria de Fátima', '05234567890', 2.7, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Maria Clara', '67234567890', 2.8, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Maria Amorin', '67234567890', 2.8, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Maria Barbosa', '67234567890', 2.8, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Maria Vicentina', '67234567890', 2.8, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Maria Rocha', '67234567890', 2.8, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Maria Oliveira', '67234567890', 2.8, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Maria de Jesus', '67234567890', 2.8, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2, NOW());
